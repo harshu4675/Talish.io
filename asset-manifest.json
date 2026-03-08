@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/talish-io/static/css/main.910d31a7.css",
+    "main.js": "/talish-io/static/js/main.e16e6156.js",
+    "index.html": "/talish-io/index.html",
+    "main.910d31a7.css.map": "/talish-io/static/css/main.910d31a7.css.map",
+    "main.e16e6156.js.map": "/talish-io/static/js/main.e16e6156.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.910d31a7.css",
+    "static/js/main.e16e6156.js"
+  ]
+}
